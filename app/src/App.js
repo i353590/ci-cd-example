@@ -8,7 +8,7 @@ class App extends React.Component {
       <div className="App">
         <div className="title">
         I am Running in the Cloud
-        this is developed by Me
+        this is developed by Team 5
         </div>
       </div>
     );
